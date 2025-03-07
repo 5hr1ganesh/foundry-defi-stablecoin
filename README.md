@@ -1,4 +1,5 @@
 # Foundry DeFi Stablecoin
+Uses Openzeppelin-contracts version 4.8.3
 
 This is a section of the Cyfrin Foundry Solidity Course.
 

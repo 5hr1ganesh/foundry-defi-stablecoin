@@ -1,5 +1,4 @@
 # Foundry DeFi Stablecoin
-Uses Openzeppelin-contracts version 4.8.3
 
 This is a section of the Cyfrin Foundry Solidity Course.
 
@@ -7,6 +6,7 @@ This is a section of the Cyfrin Foundry Solidity Course.
 [Decentralized Stablecoin Example](https://sepolia.etherscan.io/address/0xf30021646269007b0bdc0763fd736c6380602f2f#code)
 
 # About
+Uses Openzeppelin-contracts version 4.8.3
 
 This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD.
 
